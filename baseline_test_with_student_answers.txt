@@ -1,0 +1,238 @@
+1. What is machine learning?
+    a. A branch of computer science that deals with the design and analysis of algorithms 
+    b. A branch of computer science that deals with the study of human behavior 
+    c. A branch of computer science that deals with the study of natural language processing 
+    d. A branch of computer science that deals with the study of computer networks 
+
+2. What are the three types of machine learning?
+    a. Supervised, unsupervised, and reinforcement learning
+    b. Supervised, unsupervised, and deep learning
+    c. Supervised, unsupervised, and semi-supervised learning
+    d. Supervised, unsupervised, and active learning
+
+3. What is the difference between supervised and unsupervised learning?
+    a. Supervised learning requires labeled data, while unsupervised learning does not
+    b. Supervised learning requires unlabeled data, while unsupervised learning does not
+    c. Supervised learning requires both labeled and unlabeled data, while unsupervised learning does not
+    d. Supervised learning and unsupervised learning are the same
+
+4. What is the difference between classification and regression?
+    a. Classification is used for predicting continuous values, while regression is used for predicting categorical values
+    b. Classification is used for predicting categorical values, while regression is used for predicting continuous values
+    c. Classification and regression are the same
+    d. None of the above
+
+5. What is overfitting?
+    a. When a model is too simple and cannot capture the complexity of the data
+    b. When a model is too complex and captures noise in the data
+    c. When a model is just right and captures the true underlying pattern in the data
+    d. None of the above
+
+6. What is underfitting?
+    a. When a model is too simple and cannot capture the complexity of the data
+    b. When a model is too complex and captures noise in the data
+    c. When a model is just right and captures the true underlying pattern in the data
+    d. None of the above
+
+7. What is cross-validation?
+    a. A technique for evaluating the performance of a model on a dataset that was not used for training
+    b. A technique for evaluating the performance of a model on a dataset that was used for training
+    c. A technique for evaluating the performance of a model on a dataset that was partially used for training
+    d. A technique for evaluating the performance of a model on a dataset that was not used for testing
+
+8. What is regularization?
+    a. A technique for reducing the complexity of a model to prevent overfitting
+    b. A technique for increasing the complexity of a model to prevent underfitting
+    c. A technique for reducing the number of features in a dataset
+    d. A technique for increasing the number of features in a dataset
+
+9. What is the difference between L1 and L2 regularization?
+    a. L1 regularization adds the absolute value of the weights to the loss function, while L2 regularization adds the square of the weights to the loss function
+    b. L1 regularization adds the square of the weights to the loss function, while L2 regularization adds the absolute value of the weights to the loss function
+    c. L1 and L2 regularization are the same
+    d. None of the above
+
+10. What is gradient descent?
+    a. A technique for finding the minimum of a function by following the direction of steepest descent
+    b. A technique for finding the maximum of a function by following the direction of steepest ascent
+    c. A technique for finding the
+
+11. What is a neural network?
+    a. A type of machine learning algorithm that is inspired by the structure and function of the human brain
+    b. A type of machine learning algorithm that is inspired by the structure and function of the human heart
+    c. A type of machine learning algorithm that is inspired by the structure and function of the human lungs
+    d. A type of machine learning algorithm that is inspired by the structure and function of the human liver
+
+12. What is a convolutional neural network (CNN)?
+    a. A type of neural network that is used for image classification and recognition
+    b. A type of neural network that is used for natural language processing
+    c. A type of neural network that is used for speech recognition
+    d. A type of neural network that is used for reinforcement learning
+
+13. What is a recurrent neural network (RNN)?
+    a. A type of neural network that is used for image classification and recognition
+    b. A type of neural network that is used for natural language processing
+    c. A type of neural network that is used for speech recognition
+    d. A type of neural network that is used for reinforcement learning
+
+14. What is transfer learning?
+    a. A technique for reusing a pre-trained model on a new task
+    b. A technique for training a model from scratch on a new task
+    c. A technique for combining multiple models to improve performance
+    d. A technique for reducing the number of features in a dataset
+
+15. What is data augmentation?
+    a. A technique for generating new data from existing data by applying transformations
+    b. A technique for reducing the size of a dataset
+    c. A technique for increasing the size of a dataset by adding noise
+    d. A technique for reducing the complexity of a model
+
+16. What is the difference between precision and recall?
+    a. Precision is the fraction of true positives among all positive predictions, while recall is the fraction of true positives among all actual positives
+    b. Precision is the fraction of true negatives among all negative predictions, while recall is the fraction of true negatives among all actual negatives
+    c. Precision and recall are the same
+    d. None of the above
+
+17. What is F1 score?
+    a. A measure of a model's accuracy that takes into account both precision and recall
+    b. A measure of a model's accuracy that takes into account only precision
+    c. A measure of a model's accuracy that takes into account only recall
+    d. A measure of a model's accuracy that takes into account neither precision nor recall
+
+18. What is the confusion matrix?
+    a. A table that summarizes the performance of a classification model
+    b. A table that summarizes the performance of a regression model
+    c. A table that summarizes the performance of a clustering model
+    d. A table that summarizes the performance of a reinforcement learning model
+
+19. What is the difference between batch gradient descent and stochastic gradient descent?
+    a. Batch gradient descent updates the weights after processing the entire dataset, while stochastic gradient descent updates the weights after processing each data point
+    b. Batch gradient descent updates the weights after processing each data point, while stochastic gradient descent updates the weights after processing the entire dataset
+    c. Batch gradient descent and stochastic gradient descent are the same
+    d. None of the above
+
+20. What is the difference between a validation set and a test set?
+    a. A validation set is used for tuning the hyperparameters of a model, while a test set is used for evaluating the performance of a model 
+    b. A validation set is used for evaluating the performance of a model, while a test set is used for tuning the hyperparameters of a model 
+    c. A validation set and a test set are the same 
+    d. None of the above
+
+21. What is the bias-variance tradeoff?
+    a. The tradeoff between underfitting and overfitting
+    b. The tradeoff between the complexity and interpretability of a model
+    c. The tradeoff between the accuracy and speed of a model
+    d. The tradeoff between the precision and recall of a model
+
+22. What is ensemble learning?
+    a. A technique for combining multiple models to improve performance
+    b. A technique for reducing the size of a dataset
+    c. A technique for increasing the size of a dataset by adding noise
+    d. A technique for reducing the complexity of a model
+
+23. What is bagging?
+    a. A technique for building an ensemble of models by training each model on a random subset of the data
+    b. A technique for building an ensemble of models by training each model on the same data
+    c. A technique for building an ensemble of models by training each model on a different feature subset of the data
+    d. A technique for building an ensemble of models by training each model on a different hyperparameter setting
+
+24. What is boosting?
+    a. A technique for building an ensemble of models by training each model on a random subset of the data
+    b. A technique for building an ensemble of models by training each model on the same data
+    c. A technique for building an ensemble of models by training each model on a different feature subset of the data
+    d. A technique for building an ensemble of models by training each model on a different hyperparameter setting
+
+25. What is the difference between bagging and boosting?
+    a. Bagging builds an ensemble of models by training each model on a random subset of the data, while boosting builds an ensemble of models by training each model on a weighted version of the data
+    b. Bagging builds an ensemble of models by training each model on the same data, while boosting builds an ensemble of models by training each model on a different feature subset of the data
+    c. Bagging and boosting are the same
+    d. None of the above
+
+26. What is the difference between a decision tree and a random forest?
+    a. A decision tree is a single tree-based model, while a random forest is an ensemble of decision trees
+    b. A decision tree is an ensemble of tree-based models, while a random forest is a single tree-based model
+    c. A decision tree and a random forest are the same
+    d. None of the above
+
+27. What is the difference between a support vector machine (SVM) and a logistic regression model?
+    a. SVM is a linear model that finds the best hyperplane to separate the data, while logistic regression is a probabilistic model that estimates the probability of each class
+    b. SVM is a probabilistic model that estimates the probability of each class, while logistic regression is a linear model that finds the best hyperplane to separate the data
+    c. SVM and logistic regression are the same
+    d. None of the above
+
+28. What is the difference between a kernel and a feature map?
+    a. A kernel is a function that computes the dot product between two vectors in a high-dimensional space, while a feature map is a function that maps the input data to a high-dimensional space
+    b. A kernel is a function that maps the input data to a high-dimensional space, while a feature map is a function that computes the dot product between two vectors in a high-dimensional space
+    c. A kernel and a feature map are the same
+    d. None of the above
+
+29. What is the difference between a linear kernel and a radial basis function (RBF) kernel?
+a. A linear kernel is a kernel that computes the dot product between two vectors in the original space, while an RBF kernel is a kernel that computes the dot product between two vectors in a high-dimensional space 
+b. A linear kernel is a kernel that computes the dot product between two vectors in a high-dimensional space, while an RBF kernel is a kernel that computes the dot product between two vectors in the original space
+ c. A linear kernel and an RBF kernel are the same 
+d. None of the above
+
+30. What is the difference between a hard margin SVM and a soft margin SVM?
+    a. A hard margin SVM finds the hyperplane that separates the data with the largest margin, while a soft margin SVM allows for some misclassifications
+    b. A hard margin SVM allows for some misclassifications, while a soft margin SVM finds the hyperplane that separates the data with the largest margin
+    c. A hard margin SVM and a soft margin SVM are the same
+    d. None of the above
+
+31. What is the difference between a one-vs-all (OVA) and a one-vs-one (OVO) approach for multi-class classification?
+    a. OVA trains a separate binary classifier for each class, while OVO trains a binary classifier for each pair of classes
+    b. OVA trains a binary classifier for each pair of classes, while OVO trains a separate binary classifier for each class
+    c. OVA and OVO are the same
+    d. None of the above
+
+32. What is the difference between k-means clustering and hierarchical clustering?
+    a. K-means clustering is a partitioning algorithm that assigns each data point to the nearest cluster center, while hierarchical clustering is a clustering algorithm that builds a tree-like structure of nested clusters
+    b. K-means clustering is a clustering algorithm that builds a tree-like structure of nested clusters, while hierarchical clustering is a partitioning algorithm that assigns each data point to the nearest cluster center
+    c. K-means clustering and hierarchical clustering are the same
+    d. None of the above
+
+33. What is the difference between agglomerative and divisive hierarchical clustering?
+    a. Agglomerative hierarchical clustering starts with each data point as a separate cluster and merges them into larger clusters, while divisive hierarchical clustering starts with all data points in a single cluster and recursively splits them into smaller clusters
+    b. Agglomerative hierarchical clustering starts with all data points in a single cluster and recursively splits them into smaller clusters, while divisive hierarchical clustering starts with each data point as a separate cluster and merges them into larger clusters
+    c. Agglomerative and divisive hierarchical clustering are the same
+    d. None of the above
+
+34. What is the difference between single linkage and complete linkage in hierarchical clustering?
+    a. Single linkage measures the distance between the closest pair of points in two clusters, while complete linkage measures the distance between the farthest pair of points in two clusters
+    b. Single linkage measures the distance between the farthest pair of points in two clusters, while complete linkage measures the distance between the closest pair of points in two clusters
+    c. Single linkage and complete linkage are the same
+    d. None of the above
+
+35. What is the difference between a dendrogram and a heat map in hierarchical clustering?
+    a. A dendrogram is a tree-like structure that shows the hierarchy of clusters, while a heat map is a graphical representation of the distance matrix between data points
+    b. A dendrogram is a graphical representation of the distance matrix between data points, while a heat map is a tree-like structure that shows the hierarchy of clusters
+    c. A dendrogram and a heat map are the same
+    d. None of the above
+
+36. What is the difference between a decision tree and a rule-based model?
+    a. A decision tree is a tree-like structure that makes decisions based on a set of rules, while a rule-based model is a set of rules that make decisions
+    b. A decision tree and a rule-based model are the same
+    c. A decision tree is a tree-like structure that makes decisions based on a set of rules, while a rule-based model is a tree-like structure that makes decisions based on a set of rules
+    d. None of the above
+
+37. What is the difference between a decision tree and a random forest?
+    a. A decision tree is a single tree-based model, while a random forest is an ensemble of decision trees
+    b. A decision tree is an ensemble of tree-based models, while a random forest is a single tree-based model
+    c. A decision tree and a random forest are the same
+    d. None of the above
+
+38. What is the difference between a decision tree and a gradient boosting model?
+    a. A decision tree is a single tree-based model, while a gradient boosting model is an ensemble of decision trees
+    b. A decision tree is an ensemble of tree-based models, while a gradient boosting model is a single tree-based model
+    c. A decision tree and a gradient boosting model are the same
+    d. None of the above
+
+39. What is the difference between a decision tree and a support vector machine (SVM)?
+    a. A decision tree is a tree-like structure that makes decisions based on a set of rules, while an SVM is a linear model that finds the best hyperplane to separate the data
+    b. A decision tree is a linear model that finds the best hyperplane to separate the data, while an SVM is a tree-like structure that makes decisions based on a set of rules
+    c. A decision tree and an SVM are the same
+    d. None of the above
+
+40. What is the difference between supervised and unsupervised learning?
+    a. Supervised learning uses labeled data to train models, while unsupervised learning uses unlabeled data to find patterns or structures
+    b. Supervised learning uses unlabeled data to find patterns or structures, while unsupervised learning uses labeled data to train models
+    c. Supervised and unsupervised learning are the same
+    d. None of the above

@@ -1,0 +1,7 @@
+Instructions for completing the baseline test:
+
+1. Read each question carefully and try to answer it to the best of your ability.
+2. If you are unsure of an answer, you can either guess or leave it unanswered.
+3. Once you have completed the test, please save your answers to a file called baseline_test_with_student_answers.txt in the C:\Users\jonmorri\source\repos\Auto-GPT-0.2.2\auto_gpt_workspace directory.
+
+If you have any questions or concerns, please let us know.
